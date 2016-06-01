@@ -8,7 +8,7 @@
 	"FOOTER": {
 		"STAT_DATE": "Statistik baseret på datadump fra {{date}}",
 		"STAT_LINK": "detaljer",
-		"POWERED_BY": "Drivet af <a href=\"https://github.com/Wikidata/Wikidata-Toolkit\">Wikidata Toolkit</a> &amp; <a href=\"https://query.wikidata.org/\">Wikidata SPARQL Query</a>"
+		"POWERED_BY": "Drevet af <a href=\"https://github.com/Wikidata/Wikidata-Toolkit\">Wikidata Toolkit</a> &amp; <a href=\"https://query.wikidata.org/\">Wikidata SPARQL Query</a>"
 	},
 	"PROPTYPE": "Type",
 	"FURTHER_RESULTS": "&hellip; flere resultater",
@@ -16,7 +16,7 @@
 		"PREFERRED_HINT": "Dette er et foretrukket udsagn",
 		"DEPRECATED_HINT": "Dette er et forældet udsagn",
 		"NO_VALUE": "ingen værdi",
-		"SOME_VALUE": "uspecificert værdi",
+		"SOME_VALUE": "uspecificeret værdi",
 		"MORE_STATEMENTS": "vis {{number}} flere udsagn",
 		"LESS_STATEMENTS": "skjul {{number}} udsagn"
 	},
