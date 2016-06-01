@@ -1,0 +1,87 @@
+{
+	"NAV": {
+		"PROPERTIES": "Egenskaber",
+		"CLASSES": "Klasser",
+		"START": "Start",
+		"ABOUT": "Om"
+	},
+	"FOOTER": {
+		"STAT_DATE": "Statistik baseret på datadump fra {{date}}",
+		"STAT_LINK": "detaljer",
+		"POWERED_BY": "Drivet af <a href=\"https://github.com/Wikidata/Wikidata-Toolkit\">Wikidata Toolkit</a> &amp; <a href=\"https://query.wikidata.org/\">Wikidata SPARQL Query</a>"
+	},
+	"PROPTYPE": "Type",
+	"FURTHER_RESULTS": "&hellip; flere resultater",
+	"STATEMENTS": {
+		"PREFERRED_HINT": "Dette er et foretrukket udsagn",
+		"DEPRECATED_HINT": "Dette er et forældet udsagn",
+		"NO_VALUE": "ingen værdi",
+		"SOME_VALUE": "uspecificert værdi",
+		"MORE_STATEMENTS": "vis {{number}} flere udsagn",
+		"LESS_STATEMENTS": "skjul {{number}} udsagn"
+	},
+	"TYPICAL_PROPS": {
+		"TYPICAL_PROPS": "Typiske egenskaber",
+		"HINT_PROP": "Andre egenskaber som ofte er brugt af elementer med denne egenskab",
+		"HINT_CLASS": "Andre egenskaber som ofte er brugt af direkte og indirekte forekomster af denne klasse",
+		"NONE": "ingen"
+	},
+	"INSTANCE_OF_PHRASE": "{{entity}} er en/et {{classes}}",
+	"NO_INSTANCE_OF_PHRASE": "{{entity}} er ikke en forekomst af nogen anden klasse",
+	"SUBCLASS_OF_PHRASE": "enhver(t) {{entity}} er også en/et {{classes}}",
+	"NO_SUBCLASS_OF_PHRASE": "{{entity}} er ikke en underklasse af nogen anden klasse",
+	"SUBPROPERTY_OF_PHRASE": "enhver {{entity}} er også en/et {{properties}}",
+	"NO_SUBPROPERTY_OF_PHRASE": "{{entity}} er ikke en underegenskab af nogen anden egenskab",
+	"SEC_CLASSIFICATION": {
+		"SEC_CLASSIFICATION": "Klassifikation",
+		"DIRECT_SUBCLASSES": "Direkte underklasser",
+		"NO_DIRECT_SUBCLASSES": "ingen",
+		"LOADING_DIRECT_SUBCLASSES": "Henter direkte underklasser &hellip;",
+		"DIRECT_SUBCLASSES_INSTANCE": "Med forekomster",
+		"INSTANCE_SUBCLASSES_HINT": "Direkte underklasser som har forekomster, sammen med antallet direkte og indirekte forekomster",
+		"DIRECT_SUBCLASSES_SUBCLASS": "Med underklasser",
+		"SUBCLASS_SUBCLASSES_HINT": "Direkte underklasser som har underklasser, sammen med antallet direkte og indirekte underklasser",
+		"DIRECT_SUBCLASSES_ALL": "Alle",
+		"DIRECT_SUPERCLASSES": "Direkte overklasser",
+		"NO_DIRECT_SUPERCLASSES": "ingen",
+		"ALL_SUBCLASSES": "Alle underklasser",
+		"ALL_SUBCLASSES_HINT": "Antal unikke direkte og indirekte underklasser"
+	},
+	"SEC_INSTANCES": {
+		"SEC_INSTANCES": "Forekomster",
+		"DIRECT_INSTANCES": "Direkte forekomster",
+		"ALL_INSTANCES": "Alle forekomster",
+		"ALL_INSTANCES_HINT": "Total antal unikke forekomster af denne klassen og dens {{subclassCount}} direkte og indirekte underklasser",
+		"NO_DIRECT_INSTANCES": "Ingen direkte forekomster blev fundet. Måske er dataene for nyligt blevet ændret. Vi henter snart opdateret data.",
+		"LOADING_DIRECT_INSTANCES": "Henter direkte forekomster &hellip;"
+	},
+	"SEC_HUMAN_RELATIONS": "Menneskelige relationer",
+	"SEC_IDENTIFIERS": "Identifikatorer",
+	"SEC_LINKS": {
+		"SEC_LINKS": "Links",
+		"WIKIDATA": "Wikidata-side",
+		"WEBSITE": "Officielt netsted",
+		"REASONATOR": "Reasonator"
+	},
+	"SEC_PROP_USE": {
+		"SEC_PROP_USE": "Egenskabsbrug",
+		"ENTITIES": "Emner",
+		"ENTITIES_HINT": "Emner med udsagn for denne egenskaben",
+		"NO_ENTITIES": "Ingen emner blev fundet. Måske er dataene for nyligt blevet ændret. Vi henter snart opdateret data.",
+		"LOADING_ENTITIES": "Henter emner &hellip;",
+		"VALUES": "Værdier",
+		"VALUES_HINT": "Værdier brugt i udsagn med denne egenskab",
+		"STATEMENTS": "Udsagn",
+		"STATEMENTS_PER_ENTITY": "({{number}} per emner)",
+		"STATEMENTS_HINT": "Antal udsagn for denne egenskab",
+		"QUALIFIERS": "Kvalifikatorer",
+		"QUALIFIERS_HINT": "Andre egenskaber som er brugt som kvalifikatorer for denne egenskab, sammen med antal brugstilfælder",
+		"QUALIFIER_USES": "Brugt som kvalifikator",
+		"REFERENCE_USES": "Brugt i referenser"
+	},
+	"SEC_STATEMENTS": "Udsagn",
+	"SEC_MEDIA": "Media",
+	"SEC_WIKIMEDIA_PAGES": "Wikimedia-kategorier og -portaler",
+	"NOSUCHENTITY_HEADLINE": "Beklager, fandt ikke noget emner med ID '{{id}}'.",
+	"NOSUCHENTITY_BODY": "Møske er den blevet slettet. Måske har den aldrig eksisteret. Måske får vi aldrig at vide hvorfor."
+}
